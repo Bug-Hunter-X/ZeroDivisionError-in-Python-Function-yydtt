@@ -1,0 +1,3 @@
+This repository contains a demonstration of a common Python error: ZeroDivisionError.  The `bug.py` file shows the erroneous code, while `bugSolution.py` provides a corrected version that handles the potential division by zero.
+
+The ZeroDivisionError arises when the program attempts to divide a number by zero.  This is a runtime error that needs to be explicitly handled to prevent crashes.  The solution employs a simple conditional check to avoid the division by zero.
